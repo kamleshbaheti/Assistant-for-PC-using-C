@@ -1,4 +1,4 @@
-The Assistant may not process its functionality on your PC.
+The Assistant may not start while booting the system, to add this, please add the (.exe) file in the Start Up folder of your PC. The (.exe) file will be created when you compiler and run the Assistant.c
 If you want to add any specific folder location, just add the new condition in the file and add the location of your file/folder.
 While adding anything new, follow the way other things are added.
 Example:
