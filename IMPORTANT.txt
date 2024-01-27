@@ -1,0 +1,10 @@
+The Assistant may not process its functionality on your PC.
+If you want to add any specific folder location, just add the new condition in the file and add the location of your file/folder.
+While adding anything new, follow the way other things are added.
+Example:
+  Suppose your NotePad is installed on the location C:\Windows\notepad.exe then this path will be added as C:\\Windows\\notepad.exe.
+
+This same rule will be applied while adding any new folder or file installed in the system.
+Change "Kratak" in line 16 of Assistant.c to your name and the Assistant will wish you everytime you turn it on based on the day time.
+Before making changes, run [functions] command in the terminal, you will get to know its features.
+Add the functionality as per requirment and enjoy the skipped navigation in the system of searching and opening the file.
