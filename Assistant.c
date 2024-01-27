@@ -193,26 +193,11 @@ int main()
             printf(" Opening Codechef's Problem Set\n");
             system("start https://www.codechef.com/practice/");
         }
-        else if(strcmp(user_input,"codetantra")==0)
-        {
-            printf(" Opening CodeTantra\n");
-            system("start https://liet.codetantra.com/login.jsp");
-        }
         else if(strcmp(user_input,"wifi")==0)
         {
             printf(" WiFi Details : \n");
             SetConsoleTextAttribute(hConsole, 2);
             system("C:\\Windows\\System32\\ipconfig");
-        }
-        else if(strcmp(user_input,"portal")==0 || strcmp(user_input,"prtl")==0)
-        {
-            printf(" Opening Lloyd Captive Portal \n");
-            system("start http://10.0.0.1:8090/httpclient.html");
-        }
-        else if(strcmp(user_input,"erp")==0)
-        {
-            printf(" Opening LIET ERP Portal \n");
-            system("start https://lloydcollege.in/lloyd/auth/login");
         }
         else if(strcmp(user_input,"restart")==0)
         {
