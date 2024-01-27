@@ -13,9 +13,9 @@ Capabilities:
 
 Getting Started:
 
-Download the Project: Clone the repository or download the code files.
-Build the Program: Install CodeBlocks or any C compiler and compile the C code (works with Windows only).
-Configure Auto-Start: Add the program to your system startup routine (instructions vary depending on your operating system).
+- Download the Project: Clone the repository or download the code files.
+- Build the Program: Install CodeBlocks or any C compiler and compile the C code (works with Windows only).
+- Configure Auto-Start: Add the program to your system startup routine (instructions vary depending on your operating system).
 
 Usage:
 
